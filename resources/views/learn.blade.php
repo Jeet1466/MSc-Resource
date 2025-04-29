@@ -6,7 +6,7 @@
 
 <div class="main-section">
     <div id="syllabus" class="box">
-        <a href="/syllabuspage"> 
+        <a href="/syllabuspage">
             <h1>Syllabus</h1>
             <p>Here you can find the syllabus for the course.</p>
         </a>
