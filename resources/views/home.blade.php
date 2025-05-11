@@ -33,17 +33,20 @@
 </div>
 
 
-
-
-
-    <div id="mid-depth" class="section mid-depth">
-        <h1>Skills & Portfolio</h1>
-        <ul>
-            <p>✔ Cybersecurity Enthusiast</p>
-            <p>✔ AI & Machine Learning</p>
-            <p>✔ Laravel & Web Development</p>
-        </ul>
+<div id="mid-depth" class="section mid-depth">
+    <h1>Skills & Portfolio</h1>
+    <ul>
+        <p>✔ Cybersecurity Enthusiast</p>
+        <p>✔ AI & Machine Learning</p>
+        <p>✔ Laravel & Web Development</p>
+    </ul>
+    <div class="video-container">
+        <video width="100%" controls>
+            <source src="{{ asset('videos/skills.mp4') }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
+</div>
 
 
     <div id="deep-sea" class="section deep-sea">
