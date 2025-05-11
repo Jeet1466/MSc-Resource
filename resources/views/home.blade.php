@@ -36,9 +36,8 @@
 <div id="mid-depth" class="section mid-depth">
     <h1>Skills & Portfolio</h1>
     <ul>
-        <p>✔ Cybersecurity Enthusiast</p>
-        <p>✔ AI & Machine Learning</p>
-        <p>✔ Laravel & Web Development</p>
+       <p>learning webdevlopment using Laravel.</p>
+       <p>Checkout GitHub for the more projects.</p>
     </ul>
     <div class="video-container">
         <video width="100%" controls>
