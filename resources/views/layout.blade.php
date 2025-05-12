@@ -31,7 +31,7 @@
         
 
     
-        <p>© {{ date('Y') }} MSC-IT Resources | Made by Jeet Patel</p>
+        <p>© {{ date('Y') }}  Made by Jeet Patel</p>
     
         <div class="social-icons">
             <a href="https://www.instagram.com/jeet__1466/" target="_blank">
