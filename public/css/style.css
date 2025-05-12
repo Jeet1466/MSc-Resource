@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     overflow-x: hidden;
     scroll-behavior: smooth;
-    background-color: #001f3f;
+    background-color:rgb(10, 96, 150);
     transition: background-color 0.3s linear;
 }
 

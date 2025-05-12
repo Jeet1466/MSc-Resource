@@ -21,9 +21,9 @@ document.addEventListener("scroll", function() {
             section.style.transform = `translateY(0px)`;
 
             let colors = {
-                "surface": "rgb(1, 138, 197)",
-                "shallow": "#0077BE",
-                "mid-depth": "#005F73",
+                "surface": "rgb(10, 96, 150)",
+                "shallow": "rgb(3, 79, 126)",
+                "mid-depth": "#004173",
                 "deep-sea": "#00334E",
                 "abyss": "#001f3f"
             };
