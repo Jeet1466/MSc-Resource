@@ -5,14 +5,12 @@ use App\Http\Controllers\ContactController;
 use App\Http\Controllers\UploadController;
 
 Route::get('/', function () {
-    return view('home');
+    return view('learn');
 });
 
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 
-Route::get('/learn', function () {
-    return view('learn');
-});
+
 
 Route::get('/pyqpage', [UploadController::class, 'showPYQ'])->name('pyq');
 Route::get('/syllabuspage', [UploadController::class, 'showSyllabus'])->name('syllabus');
