@@ -10,8 +10,6 @@ Route::get('/', function () {
 
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 
-
-
 Route::get('/pyqpage', [UploadController::class, 'showPYQ'])->name('pyq');
 Route::get('/syllabuspage', [UploadController::class, 'showSyllabus'])->name('syllabus');
 Route::get('/materialpage', [UploadController::class, 'showMaterial'])->name('material');
