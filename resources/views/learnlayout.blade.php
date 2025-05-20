@@ -10,7 +10,7 @@
 <body>
 
     <header>
-       <h2> <a href="/learn" class="logo">Jeet Patel</a></h2>
+       <h2> <a href="/" class="logo">Jeet Patel</a></h2>
         <nav>
             <ul class="nav-links">
                
