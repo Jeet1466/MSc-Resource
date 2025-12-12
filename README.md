@@ -1,5 +1,5 @@
 
-# FirstWeb
+# College Resource Web
 I Recently started learning Laravel framework and build this website from where you can download Syllabus,PYQs,Material for MScIT course from VNSGU.
 
 [🔗 Live Project](https://jeet.22web.org)
